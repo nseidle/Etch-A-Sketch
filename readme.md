@@ -3,7 +3,7 @@ Digital Etch-A-Sketch
 
 Two digital encoders allow a user to draw on a small 1.3" OLED. An accelerometer allows the use to 'erase'.
 
-![Digital Etch-A-Sketch](https://raw.githubusercontent.com/nseidle/Etch-A-Sketch/main/Digital_Etch-A-Sketch.png.png)
+![Digital Etch-A-Sketch](https://raw.githubusercontent.com/nseidle/Etch-A-Sketch/refs/heads/main/Digital_Etch-A-Sketch.png)
 
 Materials used:
 
