@@ -1,7 +1,7 @@
 Digital Etch-A-Sketch
 ==============
 
-Two digital encoders allow a user to draw on a small 1.3" OLED. An accelerometer allows the use to 'erase'.
+Two digital encoders allow a user to draw on a small 1.3" OLED. An accelerometer allows the user to 'erase'.
 
 ![Digital Etch-A-Sketch](https://raw.githubusercontent.com/nseidle/Etch-A-Sketch/refs/heads/main/Digital_Etch-A-Sketch.png)
 
@@ -14,6 +14,8 @@ Materials used:
 * [SparkFun Micro Triple Axis Accelerometer Breakout - BMA400 (Qwiic)](https://www.sparkfun.com/sparkfun-micro-triple-axis-accelerometer-breakout-bma400-qwiic.html)
 * [Some assorted lengths of wire](https://www.youtube.com/watch?v=Wxu7z7hfVns)
 * [100mm Qwiic Cable](https://www.sparkfun.com/flexible-qwiic-cable-100mm.html)
+* [2m USB Cable](https://www.sparkfun.com/reversible-usb-a-to-c-cable-2m.html)
+* [USB A Wall Adapter](https://www.sparkfun.com/usb-wall-charger-5v-1a-black.html)
 * M3 Hex head bolts and nuts
 
 License Information
